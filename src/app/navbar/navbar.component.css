@@ -1,0 +1,31 @@
+.sticky {
+  position: sticky;
+  top: 0px
+}
+
+.logo {
+  font-weight: bold;
+  font-size: 1.3em;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: goldenrod;
+}
+
+.navbar-color {
+  background-color: black;
+}
+
+.inline {
+  display: inline;
+}
+
+.nav-link {
+  display: inline;
+  color: goldenrod;
+  font-size: 1.3em;
+}
+
+.nav-link:hover {
+  text-shadow: 2px 2px 25px  goldenrod, -2px -2px 25px  goldenrod, 2px -2px 25px  goldenrod, -2px 2px 25px  goldenrod;
+}
+
+
