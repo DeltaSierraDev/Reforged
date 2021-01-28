@@ -3,7 +3,7 @@
 }
 
 .home-section h3, .home-section h2 {
-  color: black;
+  color: goldenrod;
 }
 
 .home-section p {
@@ -12,6 +12,15 @@
 
 .home-section-dark {
   background-color: goldenrod;
+  color: black;
+}
+
+.home-section-gold {
+  background-color: goldenrod;
+  color: black;
+}
+
+.home-section-gold h2, .home-section-gold h4 {
   color: black;
 }
 
