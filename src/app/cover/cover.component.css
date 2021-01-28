@@ -10,7 +10,7 @@
       rgba(0, 0, 0, 1)
     ),
     /* your image */
-    url('forge.jpg');
+    url('/assets/img/forge.jpg');
     background-size: cover;
 }
 .cover-text-holder {

@@ -1,0 +1,33 @@
+.home-section {
+
+}
+
+.home-section h3, .home-section h2 {
+  color: goldenrod;
+}
+
+.home-section p {
+  text-align: justify;
+}
+
+.home-section-dark {
+  background-color: black;
+  color: lightgray;
+}
+
+.footer-row {
+  padding: 12px;
+}
+
+.no-bullet li{
+  list-style-type:none;
+  margin-left: -40px;
+}
+
+.home-section h5, .home-section h4 {
+  color: goldenrod;
+},
+
+.sitemap-link{
+  color: whitesmoke;
+}
