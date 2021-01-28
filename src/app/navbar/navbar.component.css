@@ -25,7 +25,8 @@
 }
 
 .nav-link:hover {
-  text-shadow: 2px 2px 25px  goldenrod, -2px -2px 25px  goldenrod, 2px -2px 25px  goldenrod, -2px 2px 25px  goldenrod;
+  text-shadow: 2px 2px 20px  goldenrod, -2px -2px 20px  goldenrod, 2px -2px 20px  goldenrod, -2px 2px 20px  goldenrod;
+  transition: 0.3s ease;
 }
 
 
