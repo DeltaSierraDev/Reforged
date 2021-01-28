@@ -31,3 +31,12 @@
 .sitemap-link{
   color: whitesmoke;
 }
+
+.sitemap-links li a {
+  color: whitesmoke;
+  text-decoration: underline;
+}
+
+.sitemap-links li a:hover {
+  color: lightgray;
+}
