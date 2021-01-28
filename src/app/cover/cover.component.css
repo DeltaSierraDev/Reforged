@@ -1,18 +1,20 @@
 .cover-container{
   width: 100%;
-  height: 666px;
+  height: 94vh;
   background-image:
     /* top, transparent red */
     linear-gradient(
-      rgba(0, 0, 0, 0.45),
-      rgba(0, 0, 0, 0.45)
+      rgba(0, 0, 0, 0.4),
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.8),
+      rgba(0, 0, 0, 1)
     ),
     /* your image */
     url('forge.jpg');
     background-size: cover;
 }
 .cover-text-holder {
-  padding-top: 16%;
+  padding-top: 36vh;
   max-width: 1200px;
   margin: 0px auto;
 }
@@ -24,7 +26,7 @@
 
 .cover-buttons {
   width: 500px;
-  margin: 30px auto;
+  margin: 60px auto;
 }
 
 .cover-button {
