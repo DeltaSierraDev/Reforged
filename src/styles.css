@@ -1,1 +1,24 @@
 /* You can add global styles to this file, and also import other style files */
+@font-face { font-family: Aldrich; src: url('/assets/fonts/Aldrich-Regular.ttf'); }
+@font-face { font-family: Allerta; src: url('/assets/fonts/AllertaStencil-Regular.ttf'); }
+@font-face { font-family: Amiko; src: url('/assets/fonts/Amiko-Regular.ttf'); }
+@font-face { font-family: Ubuntu; src: url('/assets/fonts/Ubuntu-Regular.ttf'); }
+@font-face { font-family: Aldrich; src: url('/assets/fonts/Aldrich-Regular.ttf'); }
+@font-face { font-family: Aldrich; src: url('/assets/fonts/Aldrich-Regular.ttf'); }
+@font-face { font-family: Aldrich; src: url('/assets/fonts/Aldrich-Regular.ttf'); }
+@font-face { font-family: Aldrich; src: url('/assets/fonts/Aldrich-Regular.ttf'); }
+@font-face { font-family: Aldrich; src: url('/assets/fonts/Aldrich-Regular.ttf'); }
+@font-face { font-family: Aldrich; src: url('/assets/fonts/Aldrich-Regular.ttf'); }
+@font-face { font-family: Aldrich; src: url('/assets/fonts/Aldrich-Regular.ttf'); }
+@font-face { font-family: Aldrich; src: url('/assets/fonts/Aldrich-Regular.ttf'); }
+@font-face { font-family: Aldrich; src: url('/assets/fonts/Aldrich-Regular.ttf'); }
+@font-face { font-family: Aldrich; src: url('/assets/fonts/Aldrich-Regular.ttf'); }
+@font-face { font-family: Aldrich; src: url('/assets/fonts/Aldrich-Regular.ttf'); }
+
+h1, h2, h3, h4 {
+  font-family: 'Aldrich';
+}
+
+p {
+  font-family: 'Ubuntu';
+}

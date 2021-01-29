@@ -1,6 +1,6 @@
 .cover-container{
   width: 100%;
-  height: 94vh;
+  height: 92vh;
   background-image:
     /* top, transparent red */
     linear-gradient(
@@ -27,6 +27,7 @@
 .cover-buttons {
   width: 500px;
   margin: 60px auto;
+  font-family: 'Aldrich';
 }
 
 .cover-button {
