@@ -16,8 +16,18 @@
 }
 
 .home-section-gold {
-  background-color: goldenrod;
+  background-image:
+    /* top, transparent red */
+    linear-gradient(
+      rgba(218, 165, 32, 0.9),
+      rgba(218, 165, 32, 0.9)
+    ),
+    /* your image */
+    url('/assets/img/forge.jpg');
+    background-size: cover;
   color: black;
+
+
 }
 
 .home-section-gold h2, .home-section-gold h4 {
