@@ -1,5 +1,5 @@
 .home-section {
-  height: 100vh;
+  min-height: 100vh;
 }
 
 .home-section h3, .home-section h2 {
